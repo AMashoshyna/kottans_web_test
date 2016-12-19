@@ -1,2 +1,5 @@
 # kottans_web_test
+
 [Task 0 solution](task_0/README.md)
+
+[Task 1 solution](task_1/README.md)
