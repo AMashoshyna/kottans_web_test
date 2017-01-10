@@ -5,3 +5,8 @@
 [Udacity Configuring Linux Web-server](Configuring_Linux_Web_server_screenshot.jpg)
 
 [Networking for Web Developers](Networking_for_Web_developers_screenshot.jpg)
+
+
+Next:
+
+[Task 2 solution](https://github.com/AMashoshyna/kottans_web_test/tree/master/task_2)

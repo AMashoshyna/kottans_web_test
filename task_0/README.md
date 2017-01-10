@@ -12,3 +12,8 @@
 -[Part 1 screehshot](learngitbranching1.jpg)
 
 -[Part 2 screehshot](learngitbranching2.jpg)
+
+
+Next:
+
+[Task 1 solution](https://github.com/AMashoshyna/kottans_web_test/tree/master/task_1)
