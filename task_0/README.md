@@ -1,19 +1,6 @@
 #Task 0 solution
-## Udacity
--[Lesson 1 screenshot](udacity_1.jpg)
 
--[Problem Set 1 screenshot](udacity_2.jpg)
-
--[Lesson 2 screenshot](udacity_3.jpg)
-
--[Lesson 3 screentshot](udacity_4.jpg)
-
-## learngitbranching.js.org
--[Part 1 screehshot](learngitbranching1.jpg)
-
--[Part 2 screehshot](learngitbranching2.jpg)
-
-
-Next:
-
-[Task 1 solution](https://github.com/AMashoshyna/kottans_web_test/tree/master/task_1)
+|Item|Progress|
+|----|--------|
+|Learn Git branching|[one](task_0/learngitbranching1.jpg) [two](task_0/learngitbranching2.jpg)|
+|Udacity learn git|[screenshot](task_0/udacity_git.jpg)|

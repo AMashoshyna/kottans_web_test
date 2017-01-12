@@ -1,11 +1,6 @@
 # Task 2 solution
 
-[FREECODECAMP Algorithms](https://www.freecodecamp.com/amashoshyna)
-
-[TRIVIA repo](https://github.com/AMashoshyna/trivia)
-
-[TRIVIA demo](https://amashoshyna.github.io/trivia/)
-
-Next:
-
-[Task 3 solution](https://github.com/AMashoshyna/kottans_web_test/tree/master/task_3)
+|Item|Progress|
+|----|--------|
+|Freecodecamp Algorithms|[FREECODECAMP account](https://www.freecodecamp.com/amashoshyna)|
+|Trivia|[repo](https://github.com/AMashoshyna/trivia)[DEMO](https://amashoshyna.github.io/trivia/)|
