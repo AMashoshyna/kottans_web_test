@@ -5,11 +5,11 @@
 
 |Item|Progress|
 |----|--------|
-|Learn Git branching|[one](task_0/learngitbranching1.jpg) [two](task_0/learngitbranching2.jpg)|
+|Learn Git branching|[one](task_0/learngitbranching1.jpg), [two](task_0/learngitbranching2.jpg)|
 |Udacity learn git|[screenshot](task_0/udacity_git.jpg)|
 
 
-[Task 1 solution](task_1/README.md)
+##[Task 1 solution](task_1/README.md)
 
 
 |Item|Progress|
@@ -21,16 +21,16 @@
 |HTTP: The Protocol Every Web Developer Must Know - Part 2|done|
 
 
-[Task 2 solution](task_2/README.md)
+##[Task 2 solution](task_2/README.md)
 
 
 |Item|Progress|
 |----|--------|
 |Freecodecamp Algorithms|[FREECODECAMP account](https://www.freecodecamp.com/amashoshyna)|
-|Trivia|[repo](https://github.com/AMashoshyna/trivia)[DEMO](https://amashoshyna.github.io/trivia/)|
+|Trivia|[repo](https://github.com/AMashoshyna/trivia), [DEMO](https://amashoshyna.github.io/trivia/)|
 
 
-[Task 3 solution](task_3/README.md)
+##[Task 3 solution](task_3/README.md)
 
 
 |Item|Progress|
@@ -46,7 +46,7 @@
 ||[screenshot 3](task_3/intro_to_cs_screenshot3.jpg)|
 
 
-[Task 4 solution](task_4/README.md)
+##[Task 4 solution](task_4/README.md)
 
 
 |Item|Progress|
